@@ -1,0 +1,32 @@
+.txtcolorss {
+    color: #E5A317,
+}
+.txthead {
+    background-color: #eae1df,
+}
+.img1size {
+    width: 790px;
+    height: 480px;
+    margin-bottom: 16px;
+}
+.btnstyle {
+background-color: rgb(147 51 234);
+color: white;
+font-weight: bold;
+padding: 8px 16px;
+border-radius: 8px;
+margin-top: 12px;
+cursor: pointer;
+}
+.btnstyle:hover {
+    background-color: #62CE0E;
+    color: black;
+    font-weight: bold;
+    padding: 8px 16px;
+    border-radius: 8px;
+    margin-top: 12px;
+    cursor: pointer;
+    }
+    .textalign {
+        text-align: right;
+    }
